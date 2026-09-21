@@ -27,7 +27,7 @@ import (
 	"log"
 	"os"
 
-	"golang.org/x/example/hello/reverse"
+	"github.com/kikazohub/example/hello/reverse"
 )
 
 func usage() {

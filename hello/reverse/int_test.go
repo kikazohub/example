@@ -3,7 +3,7 @@ package reverse_test
 import (
 	"testing"
 
-	"golang.org/x/example/hello/reverse"
+	"github.com/kikazohub/example/hello/reverse"
 )
 
 func TestInt(t *testing.T) {
